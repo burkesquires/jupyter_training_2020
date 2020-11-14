@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/burkesquires/jupyter_training_2020/HEAD/lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/burkesquires/jupyter_training_2020/HEAD?urlpath=lab/tree/ipynb)
 
 # Interactive scientific Notebook - Jupyter Training
 
